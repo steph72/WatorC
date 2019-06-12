@@ -1,0 +1,4 @@
+Set Wator$Dir <Obey$Dir>
+Set Wator$path <Wator$Dir>.
+Dir <Obey$Dir>
+
