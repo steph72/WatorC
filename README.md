@@ -2,6 +2,8 @@
 
 A high speed implementation of the [wa-tor](https://en.wikipedia.org/wiki/Wa-Tor) simulation for RISC OS.
 
+Written using the AcornC/C++ DDE.
+
 You need a 320x256px capable machine and/or AnyMode for this program to work unmodified.
 
 Caution! for performance reasons, this thing uses the framebuffer directly. 
