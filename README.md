@@ -9,7 +9,7 @@ Written using the AcornC/C++ DDE.
 ![Screen4](screenshots/Screen4.jpg)
 ![Screen0](screenshots/Screen0.jpg)
 
-You need a 320x256px capable machine and/or AnyMode for this program to work unmodified.
+You need a 320x256px and/or AnyMode capable machine for this program to work unmodified.
 
 Caution! for performance reasons, this thing uses the framebuffer directly. 
 It runs fine on my raspberry pi running risc os 5.24, your mileage may vary...
