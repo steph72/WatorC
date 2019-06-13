@@ -4,6 +4,11 @@ A high speed implementation of the [wa-tor](https://en.wikipedia.org/wiki/Wa-Tor
 
 Written using the AcornC/C++ DDE.
 
+![Screen2](screenshots/Screen2.jpg)
+![Screen1](screenshots/Screen1.jpg)
+![Screen4](screenshots/Screen4.jpg)
+![Screen0](screenshots/Screen0.jpg)
+
 You need a 320x256px capable machine and/or AnyMode for this program to work unmodified.
 
 Caution! for performance reasons, this thing uses the framebuffer directly. 
